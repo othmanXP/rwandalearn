@@ -4,7 +4,7 @@
 /* eslint-disable no-useless-catch */
 import React, { useState, useEffect, useContext } from "react";
 import { useParams } from "react-router-dom";
-import Rwandaflag from "../assets/images/Rwanda.png";
+import Rwandaflag from "../assets/images/rwanda.png";
 import { UserContext } from "../context/HookContext";
 import axiosInstance from "../axiosIntance";
 
